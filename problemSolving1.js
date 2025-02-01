@@ -10,33 +10,33 @@ let [fristName , lastName ,age] = ["John" , "Doe" , 35];
 // So What Will Be The 1st Variable Name, Then 2nd Variable Values & 
 // 3rd Variable Name And Values Both! 
 
-// let fristName = "John"; 
-// let lastName = "lastName"; 
-// let age = 35 ;
+let fristName = "John"; 
+let lastName = "lastName"; 
+let age = 35 ;
 
 // 03.Use the correct assignment operator that will 
 // result in x being 50 (same as x = x * y). 
 
-// let x = 10;
-// let y = 5;
-// x = x *  y;
+let x = 10;
+let y = 5;
+x = x *  y;
 
-// console.log(x);
+console.log(x);
 
 //04 Use comments to describe the correct data type of the following variables:
 
-// let length = typeof 16;
-// console.log(length);
+let length = typeof 16;
+console.log(length);
 
-// let lastName = "Johnson";
-// console.log(typeof lastName);
+let lastName = "Johnson";
+console.log(typeof lastName);
 
 
-// const x = {
-//   firstName: "John",  
-//   lastName: "Doe"
-// }; 
-// console.log(typeof x);
+const x = {
+  firstName: "John",  
+  lastName: "Doe"
+}; 
+console.log(typeof x);
 
 
 // 05 Execute the function named myFunction.
